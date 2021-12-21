@@ -105,5 +105,5 @@ ${SUBFINDER_EXEC} ${VIDEO_PATH} -m shooter zimuku >> /volume1/automatic/subfinde
 至此便全部配置完成，可以选择你的自动计划手动运行一次，大家可以到自己指定的路径去查看log日志。
 
 路径名中最好不要出现中文和空格，如果一定想用空格，请用'_' 下划线 代替。linux 对中文处理相当不友好，经常莫明出错。
-布置完成之后记得关闭SHH!!
+布置完成之后记得关闭SSH!!
 
